@@ -24,6 +24,8 @@ end
 def halve(number)
     if number === number
         number / 2
+    else
+        return nil
     end
 
 end
